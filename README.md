@@ -4,7 +4,7 @@
 
 ## Giới thiệu
 
-Trang web Thư viện Green Dolphine là một dự án được thiết kế và phát triển bởi [tnpu](link_to_github_profile). 
+Trang web Thư viện Green Dolphine là một dự án được thiết kế và phát triển bởi [tnpu](link_to_github_profil](https://github.com/ThanhNguyen773). 
 Trang web này nhằm mục đích cung cấp một nền tảng trực tuyến cho việc quản lý sách và tài liệu, đồng thời cung cấp các tính năng như tìm kiếm sách, thêm sách vào giỏ hàng, và quản lý người dùng.
 
 ## Các tính năng chính
