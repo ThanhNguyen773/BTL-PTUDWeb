@@ -1,29 +1,36 @@
-# btl-fe
+# Thư viện Green Dolphine
 
-This template should help get you started developing with Vue 3 in Vite.
+![Green Dolphine Library](link_to_image)
 
-## Recommended IDE Setup
+## Giới thiệu
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Trang web Thư viện Green Dolphine là một dự án được thiết kế và phát triển bởi [tnpu](link_to_github_profile). Trang web này nhằm mục đích cung cấp một nền tảng trực tuyến cho việc quản lý sách và tài liệu, đồng thời cung cấp các tính năng như tìm kiếm sách, thêm sách vào giỏ hàng, và quản lý người dùng.
 
-## Customize configuration
+## Các tính năng chính
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- **Tìm kiếm sách**: Người dùng có thể tìm kiếm sách theo tên sách, tác giả, hoặc thể loại.
+- **Thêm sách vào giỏ hàng**: Người dùng có thể thêm sách vào giỏ hàng để mua sau.
+- **Quản lý người dùng**: Cung cấp tính năng đăng nhập và đăng ký tài khoản cho người dùng, cũng như quản lý thông tin cá nhân.
 
-## Project Setup
+## Cách sử dụng
 
-```sh
-npm install
-```
+1. **Tìm kiếm sách**:
+   - Nhập từ khóa tìm kiếm vào ô tìm kiếm trên trang chủ.
+   - Nhấn nút Tìm để hiển thị kết quả tìm kiếm.
 
-### Compile and Hot-Reload for Development
+2. **Thêm sách vào giỏ hàng**:
+   - Trên trang chi tiết sách, nhấn nút "Thêm vào giỏ hàng" để thêm sách vào giỏ hàng.
 
-```sh
-npm run dev
-```
+3. **Đăng nhập và đăng ký**:
+   - Nhấn vào liên kết "Đăng nhập" hoặc "Đăng ký" ở góc trên cùng bên phải của trang để đăng nhập hoặc đăng ký tài khoản.
 
-### Compile and Minify for Production
+## Công nghệ sử dụng
 
-```sh
-npm run build
-```
+- **Frontend**: Vue.js, HTML/CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+
+## Cài đặt
+
+1. Clone repository:
+
