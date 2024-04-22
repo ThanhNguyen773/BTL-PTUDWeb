@@ -34,7 +34,7 @@ Trang web này nhằm mục đích cung cấp một nền tảng trực tuyến 
 
 ## Cài đặt
 
-1. Clone repository: git clone https://github.com](https://github.com/ThanhNguyen773
+1. Clone repository: git clone https://github.com/ThanhNguyen773
    
 2. Cài đặt dependencies:
    - npm install
