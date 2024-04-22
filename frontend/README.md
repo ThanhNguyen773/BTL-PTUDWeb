@@ -1,6 +1,6 @@
 # Thư viện Green Dolphine
 
-![Green Dolphine Library](link_to_image)
+![Green Dolphine Library](https://github.com/ThanhNguyen773/BTL-PTUDWeb/edit/main/frontend/src/assets/images/logo2.png)
 
 ## Giới thiệu
 
