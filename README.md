@@ -19,11 +19,12 @@ Trang web này nhằm mục đích cung cấp một nền tảng trực tuyến 
    - Nhập từ khóa tìm kiếm vào ô tìm kiếm trên trang chủ.
    - Nhấn nút Tìm để hiển thị kết quả tìm kiếm.
 
-2. **Thêm sách vào giỏ hàng**:
-   - Trên trang chi tiết sách, nhấn nút "Thêm vào giỏ hàng" để thêm sách vào giỏ hàng.
-
+2. **Thêm vào giỏ sách**:
+   - Trên trang chủ, bấm "Thêm vào sách mượn".
+   - Trong Chi tiết đơn Sách, bấm vào "Mượn sách"
 3. **Đăng nhập và đăng ký**:
-   - Nhấn vào liên kết "Đăng nhập" hoặc "Đăng ký" ở góc trên cùng bên phải của trang để đăng nhập hoặc đăng ký tài khoản.
+   - Nhấn vào  "Đăng nhập" hoặc "Đăng ký" ở góc trên cùng bên phải của trang để đăng nhập hoặc đăng ký tài khoản.
+     
 
 ## Công nghệ sử dụng
 
