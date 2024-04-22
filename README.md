@@ -1,10 +1,10 @@
 # Thư viện Green Dolphine
 
-![Green Dolphine Library](link_to_image)
+![Green Dolphine Library](https://github.com/ThanhNguyen773/BTL-PTUDWeb/blob/main/frontend/src/assets/images/logo2.png)
 
 ## Giới thiệu
 
-Trang web Thư viện Green Dolphine là một dự án được thiết kế và phát triển bởi [tnpu](link_to_github_profil](https://github.com/ThanhNguyen773). 
+Trang web Thư viện Green Dolphine là một dự án được thiết kế và phát triển bởi [tnpu](https://github.com/ThanhNguyen773). 
 Trang web này nhằm mục đích cung cấp một nền tảng trực tuyến cho việc quản lý sách và tài liệu, đồng thời cung cấp các tính năng như tìm kiếm sách, thêm sách vào giỏ hàng, và quản lý người dùng.
 
 ## Các tính năng chính
