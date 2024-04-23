@@ -1,4 +1,5 @@
-# Thư viện Green Dolphine
+# <span style="color:green"># Thư viện Green Dolphine</span>
+
 
 ![Green Dolphine Library](https://github.com/ThanhNguyen773/BTL-PTUDWeb/blob/main/frontend/src/assets/images/logo2.png)
 
